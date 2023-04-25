@@ -1,5 +1,5 @@
 print("Marvel Movie Character Creator")
-print("--")
+print()
 hangingAround = input("Do you like 'hanging around'?: ") 
 if hangingAround == "No" :
   print("Then you're not Spider-man")
